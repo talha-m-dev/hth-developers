@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hth-developers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Talha Manzoor (@hth-developers)
+- 👀 I’m interested in React Native (JavaScript)
+- 🌱 I’m currently Freelancing
+- 💞️ I’m looking to make firends
+- 📫 you can reach me using mail (talhamanzoor006@gmail.com)
+- 👀 WhatsApp (+923039509454)
 
 <!---
 hth-developers/hth-developers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
